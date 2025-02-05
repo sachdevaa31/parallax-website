@@ -1,7 +1,0 @@
-.DS_Store
-git add .gitignore
-git commit -m "Remove .DS_Store and update .gitignore"
-git push
-
-
-
